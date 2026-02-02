@@ -10,7 +10,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Data+Tester+at+Accenture;Full+Stack+Web+Developer;GCP+%7C+Airflow+%7C+SQL;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineer+at+Accenture;Full+Stack+Web+Developer;GCP+%7C+MERN+%7C+Python;Always+Learning+New+Tech" />
 </p>
 
 ---
