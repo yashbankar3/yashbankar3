@@ -1,9 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Yash Bankar</h1>
-<h3 align="center">Data Tester | Full Stack Developer | Tech Enthusiast</h3>
+<h3 align="center"> Full Stack Developer | Tech Enthusiast | AI </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yashbankar3&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -16,11 +16,11 @@
 ---
 
 ## 🚀 About Me
-- 💼 Working as **Data Test Analyst (Accenture)**
-- 🧪 Experience in **Data Validation, ETL, DAG, DQ Checks**
-- 🌐 Full Stack Developer (Masai School)
-- ☁️ Working with **GCP, Airflow, SQL**
-- 💡 Interested in **Freelancing & Side Hustles**
+- 💼 Working as **Associate Software Engineer (Iauro Systems)**
+- 🧪 Experience in **Software development, Web Design & Development, Software Testing (Automation + Manual) Data Validation, ETL, DAG, DQ Checks**
+- 🌐 Full Stack Developer - MERN
+- ☁️ Working with **React, Node, JavaScript, Python, AI, Mongo, Express, NEXT, kubernetes, Docker, Github, GCP, Airflow, SQL**
+- 💡 Interested in **Working on Complex Projects, Freelancing & Side Hustles**
 - 📍 India
 
 ---
@@ -48,30 +48,28 @@
 ## 📊 GitHub Stats (Animated)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashbankar3&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashbankar3&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
-- 🔹 **Data Testing Framework** – SQL + GCP validation
-- 🔹 **ETL Pipeline Testing** – Airflow DAG monitoring
-- 🔹 **Full Stack Web App** – React + Node.js
-
-_(Pin your best repos here 👇)_
+- 🔹 **Project 1 ** – 
+- 🔹 **Project 2** – 
+- 🔹 **Project 3** – 
 
 ---
 
 ## 🤝 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/yash-bankar-9249531aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:yashbank2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
   </a>
 </p>
